@@ -1,9 +1,6 @@
-# basic-project-13
+# Markdown Table Generator
 
-This is a basic project repository created automatically.
+This is a Markdown Table Generator repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `table_gen.py`
